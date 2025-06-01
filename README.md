@@ -1,1 +1,11 @@
 # Portfolio
+COMPANY:CODTECH IT SOLUTIONS
+NAME:NADIKATTU JYOTHI
+INTERN ID:CT08ND1154
+DOMAIN:FRONT END DEVEOPMENT
+DURATION:4 WEEKS
+MENTOR:NEELA SANTHOSH
+DESCRIPTION OF TASK:
+                    I am a dedicated Full Stack Developer with a strong passion for building responsive and scalable web applications. With hands-on experience in technologies like React.js, Node.js, and MongoDB, I specialize in crafting intuitive user interfaces and robust backend systems. My portfolio showcases a variety of projects including task managers, personal websites, and e-commerce platforms. I take pride in writing clean, maintainable code and delivering seamless user experiences. Feel free to explore my work and reach out for collaboration or professional opportunities.
+OUTPUT:
+
